@@ -1,6 +1,7 @@
 ;;; eval-in-repl-matlab.el --- Description.
 ;;
 ;; Author: Takeshi Teshima <diadochos.developer@gmail.com>
+;; Package-Requires: ((org-babel-eval-in-repl "0") (matlab-mode "3.3.6") (emacs "24"))
 ;; Keywords: literate programming, reproducible research, async execution
 ;; URL: https://github.com/diadochos/org-babel-eval-in-repl
 

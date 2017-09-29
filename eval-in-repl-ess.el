@@ -1,6 +1,7 @@
 ;;; eval-in-repl-ess.el --- Eval org-mode babel code blocks in various REPLs.   -*- lexical-binding: t; -*-
 ;;
 ;; Author: Takeshi Teshima <diadochos.developer@gmail.com>
+;; Package-Requires: ((org-babel-eval-in-repl "0") (ess "16.10") (emacs "24"))
 ;; Keywords: literate programming, reproducible research, async execution
 ;; URL: https://github.com/diadochos/org-babel-eval-in-repl
 
